@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-image: url(https://cdn.pixabay.com/photo/2017/03/20/22/13/book-2160539_640.png);
+    background-size: contain;
+}
+h1{
+    font-weight: bolder;
+}
+h3{
+    font-size: large;
+}
+h4{
+    font-size: large;
+}
+footer{
+    background-color: black;
+    color: white;
+}
+div{
+    height:200px;
+    width: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    font-size: larger
+}
+table{
+    display: inline-block;
+    border:3px solid black;
+    font-size: larger;
+}
